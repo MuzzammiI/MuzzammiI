@@ -26,7 +26,7 @@
 <img alt="gitub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://muzzu.tech/" target="_blank" alt="Personal Portfolio">
-<img alt="biolind" src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
+<img alt="biolind" src="https://img.shields.io/badge/Portfolio-000000%7D?style=for-the-badge&logo=Portfolio&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/md-mozammil-2a6030159/" target="_blank" alt="LinkedIn">
 <img alt="gitub" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
