@@ -21,6 +21,14 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+   <img alt="Static Badge" src="https://img.shields.io/badge/n8n-black%2Cn8n%2Camg">
+   <img alt="Static Badge" src="https://img.shields.io/badge/gemni_Ai_chat_model-green%2Cgemni%2Cauto">
+<img alt="Static Badge" src="https://img.shields.io/badge/Automation-green%2Cgemni%2Cauto">
+<img alt="Static Badge" src="https://img.shields.io/badge/Optimization-green%2Cgemni%2Cauto">
+<img alt="Static Badge" src="https://img.shields.io/badge/useAI-green%2Cgemni%2Cauto">
+
+
+
 </p>
 
 <h3>Where to find me</h3>
