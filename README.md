@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! I'm Mozammil.</h1>
 
 
-<p>Welcome to my page! </br> I'm Md Mozammil, MERN-Stack developer woking on n8n automation</p>
+<p>Welcome to my page! </br> I'm Md Mozammil, MERN Stack Developer | 300+ LeetCode Problems Solved | C++ & JavaScript Enthusiast | Passionate About Automation & Generative AI | Open to SDE Roles</p>
 
 
 <h3>
@@ -36,7 +36,7 @@
 <a href="https://github.com/MuzzammiI/" target="_blank" alt="github">
 <img alt="gitub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://muzzu.tech/" target="_blank" alt="Personal Portfolio">
+<a href="https://muzzammii.github.io/Interactive-Terminal-Portfolio/" target="_blank" alt="Personal Portfolio">
 <img alt="biolind" src="https://img.shields.io/badge/Portfolio-000000%7D?style=for-the-badge&logo=Portfolio&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/md-mozammil-2a6030159/" target="_blank" alt="LinkedIn">
